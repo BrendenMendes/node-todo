@@ -1,0 +1,42 @@
+{
+   "Brenden": {
+      "id": 1,
+      "password": "brenden"
+   },
+   "James": {
+      "id": 2,
+      "password": "james"
+   },
+   "Rory": {
+      "id": 3,
+      "password": "rory"
+   },
+   "Kyle": {
+      "id": 4,
+      "password": "kyle"
+   },
+   "Jack": {
+      "id": 5,
+      "password": "jack"
+   },
+   "Sid": {
+      "id": 6,
+      "password": "sid"
+   },
+   "Arthur": {
+      "id": 7,
+      "password": "arthur"
+   },
+   "Vic": {
+      "id": 8,
+      "password": "vic"
+   },
+   "Sam": {
+      "id": 9,
+      "password": "sam"
+   },
+   "Guy": {
+      "id": 10,
+      "password": "guy"
+   }
+}
